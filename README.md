@@ -36,7 +36,7 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- ![Uploading image.png…]()
+ ![image](https://github.com/user-attachments/assets/135b3feb-8acc-4f80-93b0-f15164df4043)
 
  
  ## RESULT
